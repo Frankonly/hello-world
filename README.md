@@ -1,2 +1,2 @@
 # hello-world
-Just say hello
+Not just say hello
